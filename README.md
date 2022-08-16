@@ -26,11 +26,11 @@ BuyMeACoffee deployed to: 0x2422e6bb75603b3CC108459F73f2C386eD2F76d2
 ➜  BuyMeACoffee-contracts 
 ```
 
-### Replit链接
-[需要提交](https://by-serical-a-coffee.raoserical.repl.co/)
+### Replit link
+[submit link](https://by-serical-a-coffee.raoserical.repl.co/)
 
 
-### 常用命令
+### normal command
 ```shell script
 npm install --save-dev @nomiclabs/hardhat-waffle 
 npm install dotenv
@@ -42,4 +42,15 @@ npx hardhat run scripts/deploy.js
 npx hardhat run scripts/deploy.js --network goerli
 
 npx hardhat run scripts/withdraw.js  
+```
+
+### form part 4 answer
+```shell script
+https://github.com/serical/road-to-web3-week2
+
+https://goerli.etherscan.io/address/0x2422e6bb75603b3CC108459F73f2C386eD2F76d2
+
+https://replit.com/@raoserical/By-Serical-A-Coffee?v=1
+
+https://by-serical-a-coffee.raoserical.repl.co/
 ```
